@@ -1,0 +1,499 @@
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+C:\Users\Galbiati Nicolò\Desktop\Nuova cartella\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+C:\Users\Siberg\Desktop\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+D:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+C:\Users\Siberg\Desktop\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formAdmin.resources
+E:\chiosco\chiosco\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formAdmin.resources
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+E:\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+E:\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+E:\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+E:\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb
+E:\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Win32.Registry.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Asio.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Core.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Midi.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Wasapi.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinForms.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinMM.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.AccessControl.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Principal.Windows.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+E:\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Win32.Registry.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Asio.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Core.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Midi.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Wasapi.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinForms.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinMM.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.AccessControl.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Principal.Windows.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formAdmin.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+E:\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\bene.jpg
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\casa.png
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\indietro.png
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\male.jpg
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\ospite.png
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\images\siberg.png
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.exe.config
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.Interfaces.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.System.Drawing.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Win32.Registry.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Asio.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Core.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Midi.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Wasapi.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinForms.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinMM.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.ComponentModel.Annotations.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.AccessControl.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Principal.Windows.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.dll
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\EPPlus.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\Microsoft.Win32.Registry.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Asio.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Core.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Midi.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.Wasapi.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinForms.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\NAudio.WinMM.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Buffers.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Memory.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Numerics.Vectors.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.AccessControl.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Cryptography.Pkcs.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Security.Principal.Windows.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encoding.CodePages.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Encodings.Web.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Text.Json.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\System.ValueTuple.xml
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.AssemblyReference.cache
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Form1.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formAdmin.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formCasa.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formFinale.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.formOspiti.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto_chiosco.Properties.Resources.resources
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.GenerateResource.cache
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.csproj.CoreCompileInputs.cache
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto.2D6DDA50.Up2Date
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.exe
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\obj\Debug\progetto chiosco.pdb
+\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\progetto chiosco.pdb

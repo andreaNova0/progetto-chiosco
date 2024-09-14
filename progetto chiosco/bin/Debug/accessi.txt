@@ -1,0 +1,40 @@
+vhmhj vhmvh;entrata;17/06/2024 14:50:45;vhmvh;Nessuno;0
+mmm mmm;entrata;17/06/2024 14:52:19;mmm;Direzione;0
+andrea novati;entrata;17/06/2024 14:53:36;mmm;Ufficio acquisti;0
+mmm mmm;entrata;17/06/2024 15:01:33;mmm;Direzione;1
+Marco Meroni;entrata;17/06/2024 15:11:19
+Marco Meroni;entrata;17/06/2024 15:12:33
+Emanuele Penone;entrata;17/06/2024 15:13:08
+Marco Meroni;entrata;17/06/2024 15:17:47
+Marco Meroni;uscita;17/06/2024 15:18:06
+Luca Silvestri;entrata;17/06/2024 15:39:56
+Luca Silvestri;entrata;17/06/2024 15:44:17
+Marco Bonalumi;entrata;17/06/2024 16:08:44
+Marco Bonalumi;uscita;17/06/2024 16:09:28
+Marco Bonalumi;entrata;17/06/2024 16:13:38
+Marco Meroni;entrata;17/06/2024 16:15:04
+vhmhj vhmvh;entrata;17/06/2024 16:24:42;vhmvh;Nessuno;1
+Marco Bonalumi;entrata;17/06/2024 16:27:30
+Mirko Carraro;entrata;17/06/2024 16:27:53
+Marco Ferradini;entrata;17/06/2024 16:28:09
+Samuele Moscatelli;entrata;18/06/2024 08:48:57
+andrea novati;entrata;18/06/2024 11:41:43;mmm;Ufficio acquisti;1
+giovanni brev;entrata;18/06/2024 14:05:15;jean monnet;Ufficio tecnico;0
+giovanni brev;entrata;18/06/2024 14:05:32;jean monnet;Ufficio tecnico;1
+giuseppe rezzonico;entrata;18/06/2024 14:09:10;siemens;Ufficio acquisti;0
+giuseppe rezzonico;entrata;18/06/2024 14:09:29;siemens;Ufficio acquisti;1
+Emilio Colombo;entrata;18/06/2024 14:10:42
+Emilio Colombo;entrata;18/06/2024 14:22:50
+Mirko Carraro;entrata;18/06/2024 14:26:14
+Riccardo Mascetti;entrata;18/06/2024 15:10:25
+Riccardo Mascetti;uscita;18/06/2024 15:10:34
+Riccardo Mascetti;entrata;18/06/2024 15:37:05
+Riccardo Mascetti;uscita;18/06/2024 15:37:13
+fgj gh;entrata;18/06/2024 15:37:24;tyu;LAB;0
+fgj gh;entrata;18/06/2024 15:37:35;tyu;LAB;1
+kj pg;entrata;18/06/2024 16:22:12;uiyh;LAB;0
+kj pg;entrata;18/06/2024 16:22:19;uiyh;LAB;1
+Emanuele Penone;entrata;19/06/2024 16:58:49
+Emanuele Penone;uscita;19/06/2024 16:58:58
+andrea novati;entrata;19/06/2024 11:27:34;jm;Nessuno;0
+andrea novati;entrata;19/06/2024 11:28:07;jm;Nessuno;1

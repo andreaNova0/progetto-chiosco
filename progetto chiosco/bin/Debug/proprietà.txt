@@ -1,0 +1,1 @@
+pwd000;COM6;57000;\\192.168.1.11\Commesse\0003\Progetto_Totem\progetto chiosco\progetto chiosco\bin\Debug\accessi.xlsx;
